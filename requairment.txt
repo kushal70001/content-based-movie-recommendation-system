@@ -1,0 +1,3 @@
+pandas libs
+feature_extraction(TfidfVectorizer) for vectiorize
+NearestNeighbors libs for model train
